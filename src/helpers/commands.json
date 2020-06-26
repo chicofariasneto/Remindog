@@ -1,0 +1,16 @@
+{
+    "commands": [
+        {
+            "command": "/lembrar",
+            "text": "/lembrar - Utilize para criar um novo lembrete"
+        },
+        {
+            "command": "/lembretes",
+            "text": "/lembretes - Visualize sua lista de lembretes"
+        },
+        {
+            "command": "/ajuda",
+            "text": "/ajuda - Visualize os comandos disponíveis"
+        }
+    ]
+}
